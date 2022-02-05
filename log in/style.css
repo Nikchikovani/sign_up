@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+
+.div{
+    border-radius: 15px;
+    padding: 40px;
+    background-color:rgb(94, 122, 208);
+    width: 55rem;
+    margin: 0px auto;
+    margin-top: 7rem;
+}
+
+.div form{
+    display: block;
+}
+
+.div input{
+    width: 50rem;
+}
+
+.section{
+    padding: 140px 60px 140px 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+
+
+
